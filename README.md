@@ -1,6 +1,8 @@
 # SalesDataAnalysis
 A Project covering each aspect of Sales Data Analysis workflow from loading data to Prediction
 
+Tech Stacks used :- Python, Pandas, Numpy, Matplotlib, Scikit-learn 
+
 It is a Project that covers ->
 
 i. Loading data and selecting the columns to be used in analysis <br>
