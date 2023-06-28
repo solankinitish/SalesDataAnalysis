@@ -1,6 +1,8 @@
 # SalesDataAnalysis
 It is a Project that works as a great tutorial for Data Analysis Using Pandas
 
+Tech Stacks -> Python(Pandas, Matplotlib)
+
 It covers ->
 
 i. Merging Data of 12 months(different CSV files) into 1 <br>
