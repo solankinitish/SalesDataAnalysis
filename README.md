@@ -1,13 +1,9 @@
 # SalesDataAnalysis
-A Project covering each aspect of Sales Data Analysis workflow from loading data to Prediction
+It is a Project that works as a great tutorial for Data Analysis Using Pandas
 
-Tech Stacks used :- Python, Pandas, Numpy, Matplotlib, Scikit-learn 
+It covers ->
 
-It is a Project that covers ->
-
-i. Loading data and selecting the columns to be used in analysis <br>
-ii. Using Numpy to understand different statistical aspects of the loaded data <br>
-iii. Ploting data against Prices(the feature to be predicted) to check the corelation <br>
-iv. Setting a performance metric to check model performance <br>
-v. Model building by selecting parameters using GridSearchCV method <br>
-vi. Checking Predictions using new data <br>
+i. Merging Data of 12 months(different CSV files) into 1 <br>
+ii. Different Data Cleaning Techniques like Dropping rows, Finding selected data <br>
+iii. Augment data with columns derived from the original data itself <br>
+iv. Answering Different Questions from Data using Data Manipulation and Data Visualisation using Matplotlib.<br>
